@@ -1,0 +1,2 @@
+/dev/disk/by-uuid/ca63a3a3-293e-45ec-b5c8-952e84ac1761 on /bind type ext4 (rw,relatime,errors=remount-ro,data=ordered)
+/dev/disk/by-uuid/ca63a3a3-293e-45ec-b5c8-952e84ac1761 on /tmp/.X11-unix type ext4 (rw,relatime,errors=remount-ro,data=ordered)

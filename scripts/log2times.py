@@ -2,8 +2,8 @@
 import pandas as pd
 import numpy as np
 
-# read the log file
-df = pd.read_table('localizer.txt')
+# read the log file (change the path)
+df = pd.read_table('../data/localizer.txt')
 # adjust the times
 df['Time'] = df['Time'] - df.iloc[0]['Duration'] - df.iloc[0]['Time']
 
